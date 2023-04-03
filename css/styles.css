@@ -52,11 +52,6 @@ header{
     margin: auto;
 }
 
-.clearfix::after {
-        content: "";
-            display: table;
-}
-
 ul{
     list-style: none;
     justify-content: center;
